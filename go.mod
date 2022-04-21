@@ -1,4 +1,4 @@
-module github.com/powerman/tail
+module github.com/mkmik/tail
 
 go 1.16
 
